@@ -4,7 +4,7 @@ clc; clear all; close all
 addpath('bpopt')
 
 % Solve example problem 4
-prob = bp_create(5);  % create problem
+prob = bp_create(1);  % create problem
 prob.mu = 10;          % change the initial barrier term
 sol = bpopt(prob);     % solve problem
 

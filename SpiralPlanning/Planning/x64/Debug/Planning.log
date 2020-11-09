@@ -1,0 +1,13 @@
+﻿  t1.cpp
+e:\visual studio 2015\projects\planning\planning\t1.cpp(11): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,1,0,-1,1>
+          ]
+e:\visual studio 2015\projects\planning\planning\t1.cpp(65): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,1,0,-1,1>
+          ]
+  Planning.vcxproj -> E:\Visual Studio 2015\Projects\Planning\x64\Debug\Planning.exe
+  Planning.vcxproj -> E:\Visual Studio 2015\Projects\Planning\x64\Debug\Planning.pdb (Partial PDB)

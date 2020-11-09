@@ -1,0 +1,16 @@
+﻿  test.cpp
+e:\visual studio 2015\projects\planning\planning\planner.h(30): warning C4018: “<”: 有符号/无符号不匹配
+e:\visual studio 2015\projects\planning\planning\planner.h(174): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\visual studio 2015\projects\planning\planning\test.cpp(141): warning C4018: “<”: 有符号/无符号不匹配
+e:\visual studio 2015\projects\planning\planning\test.cpp(142): warning C4244: “参数”: 从“double”转换到“char”，可能丢失数据
+e:\visual studio 2015\projects\planning\planning\test.cpp(145): warning C4244: “参数”: 从“double”转换到“char”，可能丢失数据
+e:\visual studio 2015\projects\planning\planning\test.cpp(149): warning C4018: “<”: 有符号/无符号不匹配
+e:\visual studio 2015\projects\planning\planning\test.cpp(150): warning C4244: “参数”: 从“double”转换到“char”，可能丢失数据
+e:\visual studio 2015\projects\planning\planning\test.cpp(153): warning C4244: “参数”: 从“double”转换到“char”，可能丢失数据
+test.obj : error LNK2019: 无法解析的外部符号 _engEvalString，该符号在函数 _main 中被引用
+test.obj : error LNK2019: 无法解析的外部符号 _engOpen，该符号在函数 _main 中被引用
+E:\matlab\extern\lib\win64\microsoft\libmx.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+E:\matlab\extern\lib\win64\microsoft\libmat.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+E:\matlab\extern\lib\win64\microsoft\libmex.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+E:\matlab\extern\lib\win64\microsoft\libeng.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+E:\Visual Studio 2015\Projects\Planning\Debug\Planning.exe : fatal error LNK1120: 2 个无法解析的外部命令
